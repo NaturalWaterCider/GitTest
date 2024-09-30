@@ -18,3 +18,5 @@ rl.question('文字列を入れてね', line => {
     }
     rl.close();
 });
+
+// git branch 確認用
